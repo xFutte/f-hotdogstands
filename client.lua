@@ -2,8 +2,6 @@ local QBCore = exports['qb-core']:GetCoreObject()
 
 local prop = 'prop_hotdogstand_01'
 local modelHash = GetHashKey(prop)
-local hasBread = false
-local hasSausage = false
 
 local function spawnHotdogStand(x, y, z)
     if not HasModelLoaded(modelHash) then
