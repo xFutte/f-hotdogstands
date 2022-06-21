@@ -1,12 +1,10 @@
-# Hotdog stand script
+# Hotdogstand QBCore script
 
 This script is designed for QB Core. If you have any suggestions/improvement suggestions make an issue and I'll get to it when I have time/see it.
 
 ## Installation
 
 For implementing the items into the available items, copy/paste the following lines into your shared.lua in qb-inventory.
-
----
 
 __shared.lua__
 
